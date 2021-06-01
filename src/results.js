@@ -1,5 +1,5 @@
 var SerpWow = require('google-search-results-serpwow')
-let serpwow = new SerpWow('B8BE8C002F9E4921B003016FE8A894A4')
+let serpwow = new SerpWow('YOUR SERPWOW API KEY')
 
 let i = 1;
 for(let page = 1; page <= 4; page++) {
